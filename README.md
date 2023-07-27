@@ -22,3 +22,23 @@ Inicialmente, o projeto e simple mais apenas para reforçãr fundamentos do css,
 # Link projeto para visualização
 
 https://robpepplow.github.io/logincoresanimado/
+
+
+
+<div align="center">
+  <h3 color="red">CONTATOS</h3>
+</div>
+<div align="center" display="flex" gap="20">
+<a href = "mailto:robsonpepplow@gmail.com"><img height="45" width="45" alt="Entre em contato: robsonpepplow@gmail.com" src="https://user-images.githubusercontent.com/106199387/215278918-09bfab55-007e-4d5d-aa06-92599b3b1ddf.png" target="_blank">   </a>
+<a href="https://www.linkedin.com/in/RobPepplow" target="_blank"><img height="45" width="45" alt="LinkedIn: RobsonPepplow" src="https://user-images.githubusercontent.com/106199387/215278978-a0132796-df9b-48cb-b36a-1296e5c0dd4f.png" target="_blank">   </a>
+<a href="https://github.com/RobPepplow">
+  <img height="40" width"60" src="https://user-images.githubusercontent.com/106199387/215277343-78a0a4fd-d469-4b0b-ac5e-b25906bd96c4.png"></a>  
+  
+
+  
+ ## TEL: <img height="20" width="20" src="https://user-images.githubusercontent.com/106199387/215279006-d0d6053d-6d04-4ef4-aec7-cf36fd133454.png"/>(41) 99810-2337
+  
+  
+</div>
+
+
